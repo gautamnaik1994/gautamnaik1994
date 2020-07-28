@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+### My name is Gautam Naik.
+
+I'm a Designer & Front-end Developer
+
+<a href="https://stackoverflow.com/users/2376317/gautam-naik"><img src="https://stackoverflow.com/users/flair/2376317.png" width="208" height="58" alt="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 **gautamnaik1994/gautamnaik1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
