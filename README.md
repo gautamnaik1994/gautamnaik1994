@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/gautamnaik1994/gautamnaik1994/master/wave.gif" width="30px">
 
 ### My name is Gautam Naik.
 
-I'm a Designer & Front-end Developer
+I'm a Designer & Front-end Developer who specializes in building mobile-friendly web apps. I am do UI designs some times. To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
 
-<a href="https://stackoverflow.com/users/2376317/gautam-naik"><img src="https://stackoverflow.com/users/flair/2376317.png" width="208" height="58" alt="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+
+---
+## &#x1f4c8; Stackoverflow Badge
+
+<a href="https://stackoverflow.com/users/2376317/gautam-naik"><img src="https://stackoverflow.com/users/flair/2376317.png?theme=dark" width="208" height="58" alt="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ---
 
 
