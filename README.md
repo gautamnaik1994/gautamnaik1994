@@ -8,11 +8,16 @@ I'm a Designer & Front-end Developer
 
 ---
 
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity Logo" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-blender.svg" alt="Blender Logo" height="50"/> 
+---
+
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamnaik1994&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamnaik1994&hide=java,html,css&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gautams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamnaik1994&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gautams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamnaik1994&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
