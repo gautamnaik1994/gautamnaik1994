@@ -16,7 +16,7 @@ I'm a UI Designer & Front-end Developer who specializes in building mobile-frien
 
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity Logo" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-blender.svg" alt="Blender Logo" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/adobe-44195.svg" alt="Adove Logo" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity Logo" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-blender.svg" alt="Blender Logo" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsby Logo" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/adobe-44195.svg" alt="Adove Logo" height="50"/> 
 <br/>
 <br/>
 
