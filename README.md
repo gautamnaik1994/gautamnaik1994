@@ -28,7 +28,9 @@ I'm a UI Designer & Front-end Developer who specializes in building mobile-frien
 
 [![Gautams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamnaik1994&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+## &#x1f4c8; Wakatime Stats
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e8660de9-cb19-4c0d-9db9-def7dea66f8a/7070907b-1128-47a4-a46d-189e4b03d95a.png" /></a>
 <!--
 **gautamnaik1994/gautamnaik1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
