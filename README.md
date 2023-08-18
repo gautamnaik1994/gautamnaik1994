@@ -2,7 +2,7 @@
 
 ### My name is Gautam Naik.
 
-I'm a UI Designer & Front-end Developer who specializes in building mobile-friendly web apps. To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
+I'm a Front-end Developer & UI Developer who specializes in building mobile-friendly web apps. To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
 <br/>
 <br/>
 
