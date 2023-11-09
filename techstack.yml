@@ -1,0 +1,18 @@
+repo_name: gautamnaik1994/gautamnaik1994
+report_id: ed794e2d20c271ff6f9386ae70689a24
+repo_type: Public
+timestamp: '2023-11-09T18:16:59+00:00'
+requested_by: gautamnaik1994
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
