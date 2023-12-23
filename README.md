@@ -2,7 +2,11 @@
 
 ### My name is Gautam Naik.
 
-I'm a Front-end Developer & UI Developer who specializes in building mobile-friendly web apps. To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
+I am a Frontend and UI Developer with over 8 years of experience. I have a strong track record of creating user interfaces that are responsive, accessible, visually appealing, and intuitive to use. My expertise includes the latest frontend technologies such as ReactJS, NextJS, Redux, JavaScript, Typescript, ES6, and CSS. 
+
+Additionally, I have a working knowledge of AWS services including AWS Cloud Development Kit, Lambda, Serverless Apps, DynamoDB, and the Python programming language. 
+
+To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
 <br/>
 <br/>
 
