@@ -1,12 +1,11 @@
-## Hi there <img src="https://raw.githubusercontent.com/gautamnaik1994/gautamnaik1994/master/wave.gif" width="30px">
-
-### My name is Gautam Naik.
+ 
+## Hi, My name is Gautam Naik.
 
 I am a Frontend and UI Developer with over 8 years of experience. I have a strong track record of creating user interfaces that are responsive, accessible, visually appealing, and intuitive to use. My expertise includes the latest frontend technologies such as ReactJS, NextJS, Redux, JavaScript, Typescript, ES6, and CSS. 
 
 Additionally, I have a working knowledge of AWS services including AWS Cloud Development Kit, Lambda, Serverless Apps, DynamoDB, and the Python programming language. 
 
-To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/)
+To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/). Also visit my Digital Garden [Snips & Tips](https://gautamnaik1994.gitbook.io/snippets/)
 <br/>
 <br/>
 
@@ -56,6 +55,8 @@ To know more about me visit my website at [https://www.gautamnaik.com/](https://
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+<br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%201%20min-blue)
@@ -141,12 +142,11 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  Last Updated on 28/12/2023 13:19:43 UTC
 <!--END_SECTION:waka-->
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamnaik1994&hide=java,html,css&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Gautams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamnaik1994&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## &#x1f4c8; Wakatime Stats
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@gautamnaik1994/6e3d774f-5628-4179-9709-01d2633682e2.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@gautamnaik1994/6e3d774f-5628-4179-9709-01d2633682e2.png" /></a> -->
