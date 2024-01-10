@@ -60,6 +60,8 @@ To know more about me visit my website at [https://www.gautamnaik.com/](https://
 
 <br/>
 
+## 📈 Coding Stats
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
