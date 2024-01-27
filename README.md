@@ -90,11 +90,11 @@ Sunday                   1859 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 hrs 25 mins      █████████████████████████   98.44 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   16 hrs 56 mins      █████████████████████████   98.85 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +114,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gautamnaik1994/gautamnaik1994/master/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 18:39:11 UTC
+ Last Updated on 27/01/2024 18:40:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- ## &#x1f4c8; My GitHub Stats
