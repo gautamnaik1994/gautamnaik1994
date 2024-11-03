@@ -8,15 +8,6 @@ Additionally, I have a working knowledge of AWS services including AWS Cloud Dev
 To know more about me visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/). Also, visit my Digital Garden [Snips & Tips](https://gautamnaik1994.gitbook.io/snippets/)  
 
 
-
-<br/>
-<br/>
-
-## &#x1f4c8; Profile Links
-
-### Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/tall/656100b55145316d2569bfb9?variant=dark)](https://roadmap.sh)
-
 ### Stackoverflow
 <a href="https://stackoverflow.com/users/2376317/gautam-naik"><img src="https://stackoverflow.com/users/flair/2376317.png?theme=dark" width="208" height="58" alt="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br/>
