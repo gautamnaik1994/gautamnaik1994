@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with extensive 
 
 Do check out my repositories and feel free to reach out to me for any queries.
 
-To learn more about me, visit my [https://www.gautamnaik.com/](https://www.gautamnaik.com/). Don't forget to check out my [https://www.gautamnaik.com/blog/](https://www.gautamnaik.com/blog/) for insightful case studies.
+To learn more about me, visit my website at [https://www.gautamnaik.com/](https://www.gautamnaik.com/). Don't forget to check out my blog at [https://www.gautamnaik.com/blog/](https://www.gautamnaik.com/blog/) for insightful case studies.
 
 You can also explore my Digital Garden, [Snips & Tips](https://gautamnaik1994.gitbook.io/snippets/), where I share useful snippets and tips.
 
