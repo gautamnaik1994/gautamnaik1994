@@ -1,6 +1,6 @@
 ## Hi, I'm Gautam Naik
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with extensive experience in building full-stack applications. I'm currently expanding my knowledge in Data Science, AI, and Machine Learning.  
+Welcome to my GitHub profile! I'm a Software Engineer with extensive experience in building full-stack applications. I'm currently expanding my knowledge in Data Science, AI, and Machine Learning.  
 
 Do check out my repositories and feel free to reach out to me for any queries.
 
