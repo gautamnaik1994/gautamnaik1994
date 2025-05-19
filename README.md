@@ -8,9 +8,6 @@ To learn more about me, visit my website at [https://www.gautamnaik.com/](https:
 
 You can also explore my Digital Garden, [Snips & Tips](https://gautamnaik1994.gitbook.io/snippets/), where I share useful snippets and tips.
 
-**Stackoverflow**
-
-<a href="https://stackoverflow.com/users/2376317/gautam-naik"><img src="https://stackoverflow.com/users/flair/2376317.png?theme=dark" width="208" height="58" alt="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam Naik at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 ## 🔧 Technologies & Tools
 
